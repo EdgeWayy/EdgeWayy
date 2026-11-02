@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="262" height="284" viewBox="0 0 262 284">
+  <g transform="translate(16 44) rotate(1.5 115 112)">
+  <path d="M0,5 L5,0 L10,5 L15,0 L20,5 L25,0 L30,5 L35,0 L40,5 L45,0 L50,5 L55,0 L60,5 L65,0 L70,5 L75,0 L80,5 L85,0 L90,5 L95,0 L100,5 L105,0 L110,5 L115,0 L120,5 L125,0 L130,5 L135,0 L140,5 L145,0 L150,5 L155,0 L160,5 L165,0 L170,5 L175,0 L180,5 L185,0 L190,5 L195,0 L200,5 L205,0 L210,5 L215,0 L220,5 L225,0 L230,5 L230,219 L225,224 L220,219 L215,224 L210,219 L205,224 L200,219 L195,224 L190,219 L185,224 L180,219 L175,224 L170,219 L165,224 L160,219 L155,224 L150,219 L145,224 L140,219 L135,224 L130,219 L125,224 L120,219 L115,224 L110,219 L105,224 L100,219 L95,224 L90,219 L85,224 L80,219 L75,224 L70,219 L65,224 L60,219 L55,224 L50,219 L45,224 L40,219 L35,224 L30,219 L25,224 L20,219 L15,224 L10,219 L5,224 L0,219 Z" transform="translate(3 3)" fill="#111111" fill-opacity="0.16"/>
+  <path d="M0,5 L5,0 L10,5 L15,0 L20,5 L25,0 L30,5 L35,0 L40,5 L45,0 L50,5 L55,0 L60,5 L65,0 L70,5 L75,0 L80,5 L85,0 L90,5 L95,0 L100,5 L105,0 L110,5 L115,0 L120,5 L125,0 L130,5 L135,0 L140,5 L145,0 L150,5 L155,0 L160,5 L165,0 L170,5 L175,0 L180,5 L185,0 L190,5 L195,0 L200,5 L205,0 L210,5 L215,0 L220,5 L225,0 L230,5 L230,219 L225,224 L220,219 L215,224 L210,219 L205,224 L200,219 L195,224 L190,219 L185,224 L180,219 L175,224 L170,219 L165,224 L160,219 L155,224 L150,219 L145,224 L140,219 L135,224 L130,219 L125,224 L120,219 L115,224 L110,219 L105,224 L100,219 L95,224 L90,219 L85,224 L80,219 L75,224 L70,219 L65,224 L60,219 L55,224 L50,219 L45,224 L40,219 L35,224 L30,219 L25,224 L20,219 L15,224 L10,219 L5,224 L0,219 Z" fill="#F4F1EA"/>
+  <path d="M0.5,5 V219 M229.5,5 V219" stroke="#D6D0C0" stroke-width="1" fill="none" shape-rendering="crispEdges"/>
+  <polyline points="0,5 5,0.5 10,5 15,0.5 20,5 25,0.5 30,5 35,0.5 40,5 45,0.5 50,5 55,0.5 60,5 65,0.5 70,5 75,0.5 80,5 85,0.5 90,5 95,0.5 100,5 105,0.5 110,5 115,0.5 120,5 125,0.5 130,5 135,0.5 140,5 145,0.5 150,5 155,0.5 160,5 165,0.5 170,5 175,0.5 180,5 185,0.5 190,5 195,0.5 200,5 205,0.5 210,5 215,0.5 220,5 225,0.5 230,5" fill="none" stroke="#D6D0C0" stroke-width="1"/>
+  <polyline points="0,219 5,223.5 10,219 15,223.5 20,219 25,223.5 30,219 35,223.5 40,219 45,223.5 50,219 55,223.5 60,219 65,223.5 70,219 75,223.5 80,219 85,223.5 90,219 95,223.5 100,219 105,223.5 110,219 115,223.5 120,219 125,223.5 130,219 135,223.5 140,219 145,223.5 150,219 155,223.5 160,219 165,223.5 170,219 175,223.5 180,219 185,223.5 190,219 195,223.5 200,219 205,223.5 210,219 215,223.5 220,219 225,223.5 230,219" fill="none" stroke="#D6D0C0" stroke-width="1"/>
+  <g font-family="'Courier New', 'SF Mono', Consolas, monospace" fill="#111111">
+  <text x="91" y="38" font-size="16" letter-spacing="0" textLength="48" lengthAdjust="spacing" font-weight="700">STATS</text>
+    <text x="73" y="56" font-size="10" letter-spacing="0" textLength="84" lengthAdjust="spacing" fill="#6B6B6B">STUDIO COUNTER</text>
+    <line x1="16" x2="214" y1="68.5" y2="68.5" stroke="#111111" stroke-width="1" stroke-dasharray="4 3.19"/>
+    <text x="16" y="94" font-size="11" letter-spacing="0" textLength="52.8" lengthAdjust="spacing">PROJECTS</text>
+    <text x="75.4" y="94" font-size="11" letter-spacing="0" textLength="125.4" lengthAdjust="spacing" fill="#6B6B6B">...................</text>
+    <text x="207.4" y="94" font-size="11" letter-spacing="0" textLength="6.6" lengthAdjust="spacing">4</text>
+    <text x="16" y="116" font-size="11" letter-spacing="0" textLength="26.4" lengthAdjust="spacing">BOTS</text>
+    <text x="49" y="116" font-size="11" letter-spacing="0" textLength="151.8" lengthAdjust="spacing" fill="#6B6B6B">.......................</text>
+    <text x="207.4" y="116" font-size="11" letter-spacing="0" textLength="6.6" lengthAdjust="spacing">1</text>
+    <text x="16" y="138" font-size="11" letter-spacing="0" textLength="79.2" lengthAdjust="spacing">YEARS CODING</text>
+    <text x="101.8" y="138" font-size="11" letter-spacing="0" textLength="99" lengthAdjust="spacing" fill="#6B6B6B">...............</text>
+    <text x="207.4" y="138" font-size="11" letter-spacing="0" textLength="6.6" lengthAdjust="spacing">1</text>
+    <text x="16" y="160" font-size="11" letter-spacing="0" textLength="39.6" lengthAdjust="spacing">COFFEE</text>
+    <text x="62.2" y="160" font-size="11" letter-spacing="0" textLength="138.6" lengthAdjust="spacing" fill="#6B6B6B">.....................</text>
+    <text x="207.4" y="160" font-size="11" letter-spacing="0" textLength="6.6" lengthAdjust="spacing">∞</text>
+    <line x1="16" x2="214" y1="176.5" y2="176.5" stroke="#111111" stroke-width="1" stroke-dasharray="4 3.19"/>
+    <text x="16" y="202" font-size="11" letter-spacing="0" textLength="99" lengthAdjust="spacing" font-weight="700">OPEN FOR ORDERS</text>
+    <circle cx="210" cy="198" r="3.5" fill="#E5322D"><animate attributeName="opacity" values="1;0.15" calcMode="discrete" dur="1.4s" repeatCount="indefinite"/></circle>
+  </g>
+  </g>
+</svg>

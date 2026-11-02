@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="262" height="402" viewBox="0 0 262 402">
+  <g transform="translate(16 24) rotate(-1.5 115 181)">
+  <path d="M0,5 L5,0 L10,5 L15,0 L20,5 L25,0 L30,5 L35,0 L40,5 L45,0 L50,5 L55,0 L60,5 L65,0 L70,5 L75,0 L80,5 L85,0 L90,5 L95,0 L100,5 L105,0 L110,5 L115,0 L120,5 L125,0 L130,5 L135,0 L140,5 L145,0 L150,5 L155,0 L160,5 L165,0 L170,5 L175,0 L180,5 L185,0 L190,5 L195,0 L200,5 L205,0 L210,5 L215,0 L220,5 L225,0 L230,5 L230,357 L225,362 L220,357 L215,362 L210,357 L205,362 L200,357 L195,362 L190,357 L185,362 L180,357 L175,362 L170,357 L165,362 L160,357 L155,362 L150,357 L145,362 L140,357 L135,362 L130,357 L125,362 L120,357 L115,362 L110,357 L105,362 L100,357 L95,362 L90,357 L85,362 L80,357 L75,362 L70,357 L65,362 L60,357 L55,362 L50,357 L45,362 L40,357 L35,362 L30,357 L25,362 L20,357 L15,362 L10,357 L5,362 L0,357 Z" transform="translate(3 3)" fill="#111111" fill-opacity="0.16"/>
+  <path d="M0,5 L5,0 L10,5 L15,0 L20,5 L25,0 L30,5 L35,0 L40,5 L45,0 L50,5 L55,0 L60,5 L65,0 L70,5 L75,0 L80,5 L85,0 L90,5 L95,0 L100,5 L105,0 L110,5 L115,0 L120,5 L125,0 L130,5 L135,0 L140,5 L145,0 L150,5 L155,0 L160,5 L165,0 L170,5 L175,0 L180,5 L185,0 L190,5 L195,0 L200,5 L205,0 L210,5 L215,0 L220,5 L225,0 L230,5 L230,357 L225,362 L220,357 L215,362 L210,357 L205,362 L200,357 L195,362 L190,357 L185,362 L180,357 L175,362 L170,357 L165,362 L160,357 L155,362 L150,357 L145,362 L140,357 L135,362 L130,357 L125,362 L120,357 L115,362 L110,357 L105,362 L100,357 L95,362 L90,357 L85,362 L80,357 L75,362 L70,357 L65,362 L60,357 L55,362 L50,357 L45,362 L40,357 L35,362 L30,357 L25,362 L20,357 L15,362 L10,357 L5,362 L0,357 Z" fill="#F4F1EA"/>
+  <path d="M0.5,5 V357 M229.5,5 V357" stroke="#D6D0C0" stroke-width="1" fill="none" shape-rendering="crispEdges"/>
+  <polyline points="0,5 5,0.5 10,5 15,0.5 20,5 25,0.5 30,5 35,0.5 40,5 45,0.5 50,5 55,0.5 60,5 65,0.5 70,5 75,0.5 80,5 85,0.5 90,5 95,0.5 100,5 105,0.5 110,5 115,0.5 120,5 125,0.5 130,5 135,0.5 140,5 145,0.5 150,5 155,0.5 160,5 165,0.5 170,5 175,0.5 180,5 185,0.5 190,5 195,0.5 200,5 205,0.5 210,5 215,0.5 220,5 225,0.5 230,5" fill="none" stroke="#D6D0C0" stroke-width="1"/>
+  <polyline points="0,357 5,361.5 10,357 15,361.5 20,357 25,361.5 30,357 35,361.5 40,357 45,361.5 50,357 55,361.5 60,357 65,361.5 70,357 75,361.5 80,357 85,361.5 90,357 95,361.5 100,357 105,361.5 110,357 115,361.5 120,357 125,361.5 130,357 135,361.5 140,357 145,361.5 150,357 155,361.5 160,357 165,361.5 170,357 175,361.5 180,357 185,361.5 190,357 195,361.5 200,357 205,361.5 210,357 215,361.5 220,357 225,361.5 230,357" fill="none" stroke="#D6D0C0" stroke-width="1"/>
+  <g font-family="'Courier New', 'SF Mono', Consolas, monospace" fill="#111111">
+  <text x="67" y="38" font-size="16" letter-spacing="0" textLength="96" lengthAdjust="spacing" font-weight="700">HOW I WORK</text>
+    <text x="16" y="58" font-size="10" letter-spacing="0" textLength="72" lengthAdjust="spacing" fill="#6B6B6B">ORDER TICKET</text>
+    <text x="166" y="58" font-size="10" letter-spacing="0" textLength="48" lengthAdjust="spacing" fill="#6B6B6B">NO. 0042</text>
+    <line x1="16" x2="214" y1="70.5" y2="70.5" stroke="#111111" stroke-width="1" stroke-dasharray="4 3.19"/>
+    <text x="16" y="98" font-size="11" letter-spacing="0" textLength="52.8" lengthAdjust="spacing" font-weight="700">01 BRIEF</text>
+    <text x="35.8" y="113" font-size="11" letter-spacing="0" textLength="165" lengthAdjust="spacing" fill="#6B6B6B">WE TALK. YOU TELL ME WHAT</text>
+    <text x="35.8" y="126" font-size="11" letter-spacing="0" textLength="59.4" lengthAdjust="spacing" fill="#6B6B6B">YOU NEED.</text>
+    <text x="16" y="153" font-size="11" letter-spacing="0" textLength="59.4" lengthAdjust="spacing" font-weight="700">02 DESIGN</text>
+    <text x="35.8" y="168" font-size="11" letter-spacing="0" textLength="165" lengthAdjust="spacing" fill="#6B6B6B">I SKETCH IT. YOU PICK THE</text>
+    <text x="35.8" y="181" font-size="11" letter-spacing="0" textLength="33" lengthAdjust="spacing" fill="#6B6B6B">LOOK.</text>
+    <text x="16" y="208" font-size="11" letter-spacing="0" textLength="52.8" lengthAdjust="spacing" font-weight="700">03 BUILD</text>
+    <text x="35.8" y="223" font-size="11" letter-spacing="0" textLength="171.6" lengthAdjust="spacing" fill="#6B6B6B">CLEAN CODE, FAST PAGES, NO</text>
+    <text x="35.8" y="236" font-size="11" letter-spacing="0" textLength="39.6" lengthAdjust="spacing" fill="#6B6B6B">BLOAT.</text>
+    <text x="16" y="263" font-size="11" letter-spacing="0" textLength="59.4" lengthAdjust="spacing" font-weight="700">04 LAUNCH</text>
+    <text x="35.8" y="278" font-size="11" letter-spacing="0" textLength="151.8" lengthAdjust="spacing" fill="#6B6B6B">IT GOES LIVE. I STAY ON</text>
+    <text x="35.8" y="291" font-size="11" letter-spacing="0" textLength="33" lengthAdjust="spacing" fill="#6B6B6B">CALL.</text>
+    <line x1="16" x2="214" y1="312.5" y2="312.5" stroke="#111111" stroke-width="1" stroke-dasharray="4 3.19"/>
+    <text x="52.3" y="340" font-size="11" letter-spacing="0" textLength="125.4" lengthAdjust="spacing" font-weight="700">AVG. DELIVERY: FAST</text>
+  </g>
+  </g>
+</svg>
