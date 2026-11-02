@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="280" viewBox="0 0 480 280">
+  <path d="M0,0 L480,0 L480,280 L0,280 Z" fill="#F4F1EA"/>
+  <path d="M0.5,0 V280 M479.5,0 V280" stroke="#D6D0C0" stroke-width="1" fill="none" shape-rendering="crispEdges"/>
+  <g font-family="'Courier New', 'SF Mono', Consolas, monospace" fill="#111111">
+  <line x1="28.5" x2="451.5" y1="12.5" y2="12.5" stroke="#111111" stroke-width="1" stroke-dasharray="5 4" shape-rendering="crispEdges"/>
+    <text x="28.5" y="38" font-size="14" letter-spacing="0.6" textLength="99" lengthAdjust="spacing" font-weight="700">INGREDIENTS</text>
+    <text x="28.5" y="62" font-size="14" letter-spacing="0.6" textLength="54" lengthAdjust="spacing">- HTML</text>
+    <text x="244.5" y="62" font-size="14" letter-spacing="0.6" textLength="45" lengthAdjust="spacing">- CSS</text>
+    <text x="28.5" y="84" font-size="14" letter-spacing="0.6" textLength="108" lengthAdjust="spacing">- JAVASCRIPT</text>
+    <text x="244.5" y="84" font-size="14" letter-spacing="0.6" textLength="81" lengthAdjust="spacing">- NODE.JS</text>
+    <text x="28.5" y="106" font-size="14" letter-spacing="0.6" textLength="135" lengthAdjust="spacing">- TELEGRAM BOTS</text>
+    <text x="244.5" y="106" font-size="14" letter-spacing="0.6" textLength="63" lengthAdjust="spacing">- GODOT</text>
+    <text x="28.5" y="128" font-size="14" letter-spacing="0.6" textLength="90" lengthAdjust="spacing">- THREE.JS</text>
+    <text x="244.5" y="128" font-size="14" letter-spacing="0.6" textLength="117" lengthAdjust="spacing">- CLAUDE CODE</text>
+    <line x1="28.5" x2="451.5" y1="146.5" y2="146.5" stroke="#111111" stroke-width="1" stroke-dasharray="5 4" shape-rendering="crispEdges"/>
+    <text x="28.5" y="174" font-size="14" letter-spacing="0.6" textLength="72" lengthAdjust="spacing" font-weight="700">SERVICES</text>
+    <text x="28.5" y="198" font-size="14" letter-spacing="0.6" textLength="207" lengthAdjust="spacing">- WEBSITES FOR BUSINESS</text>
+    <text x="28.5" y="220" font-size="14" letter-spacing="0.6" textLength="135" lengthAdjust="spacing">- TELEGRAM BOTS</text>
+    <text x="28.5" y="242" font-size="14" letter-spacing="0.6" textLength="126" lengthAdjust="spacing">- ADMIN PANELS</text>
+    <text x="28.5" y="264" font-size="14" letter-spacing="0.6" textLength="369" lengthAdjust="spacing">- PAYMENTS INTEGRATION (CLICK/PAYME/UZUM)</text>
+  </g>
+</svg>

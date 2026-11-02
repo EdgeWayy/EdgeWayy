@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="30" viewBox="0 0 480 30">
+  <path d="M0,0 L480,0 L480,30 L0,30 Z" fill="#F4F1EA"/>
+  <path d="M0.5,0 V30 M479.5,0 V30" stroke="#D6D0C0" stroke-width="1" fill="none" shape-rendering="crispEdges"/>
+  <g font-family="'Courier New', 'SF Mono', Consolas, monospace" fill="#111111">
+  <text x="28.5" y="20" font-size="14" letter-spacing="0.6" textLength="189" lengthAdjust="spacing">1X PROFIT GYM WEBSITE</text>
+    <text x="226.5" y="20" font-size="14" letter-spacing="0.6" textLength="135" lengthAdjust="spacing" fill="#6B6B6B">...............</text>
+    <text x="370.5" y="20" font-size="14" letter-spacing="0.6" textLength="81" lengthAdjust="spacing">DELIVERED</text>
+  </g>
+</svg>

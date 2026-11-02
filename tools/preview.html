@@ -1,0 +1,37 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Receipt preview</title>
+<!-- Open directly. ?bg=dark | ?bg=light | ?w=360 (simulate narrow phone) -->
+<style>
+  body { margin: 0; padding: 24px 0; font: 14px/1.5 sans-serif; }
+  .markdown { margin: 0 auto; text-align: center; }
+  img { max-width: 100%; }
+  #m { position: fixed; top: 8px; left: 8px; font: 12px monospace; color: #888; white-space: pre; }
+</style>
+<div id="m"></div>
+<div class="markdown" id="root">
+<img src="../assets/header.svg" width="480" align="top"><br>
+<a href="#"><img src="../assets/row-coffee.svg" width="480" align="top"></a><br>
+<a href="#"><img src="../assets/row-profit.svg" width="480" align="top"></a><br>
+<a href="#"><img src="../assets/row-billz.svg" width="480" align="top"></a><br>
+<a href="#"><img src="../assets/row-mafia.svg" width="480" align="top"></a><br>
+<img src="../assets/items.svg" width="480" align="top"><br>
+<img src="../assets/total.svg" width="480" align="top"><br>
+<a href="https://t.me/KrieWoo"><img src="../assets/contact.svg" width="480" align="top"></a><br>
+<img src="../assets/footer.svg" width="480" align="top"><br>
+</div>
+<script>
+  const q = new URLSearchParams(location.search);
+  document.body.style.background = q.get('bg') === 'dark' ? '#0d1117' : '#ffffff';
+  if (q.get('w')) document.getElementById('root').style.width = q.get('w') + 'px';
+  addEventListener('load', () => {
+    const imgs = [...document.querySelectorAll('img')];
+    const tops = imgs.map(i => i.getBoundingClientRect());
+    let gaps = [];
+    for (let k = 1; k < tops.length; k++) gaps.push((tops[k].top - tops[k-1].bottom).toFixed(2));
+    document.getElementById('m').textContent =
+      'widths: ' + [...new Set(tops.map(r => r.width.toFixed(1)))].join(',') +
+      '\ngaps: ' + gaps.join(',') +
+      '\nheights: ' + tops.map(r => r.height.toFixed(1)).join(',');
+  });
+</script>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="182" viewBox="0 0 480 182">
+  <path d="M0,0 L480,0 L480,182 L0,182 Z" fill="#F4F1EA"/>
+  <path d="M0.5,0 V182 M479.5,0 V182" stroke="#D6D0C0" stroke-width="1" fill="none" shape-rendering="crispEdges"/>
+  <g font-family="'Courier New', 'SF Mono', Consolas, monospace" fill="#111111">
+  <line x1="28.5" x2="451.5" y1="12.5" y2="12.5" stroke="#111111" stroke-width="1" stroke-dasharray="5 4" shape-rendering="crispEdges"/>
+    <text x="28.5" y="38" font-size="14" letter-spacing="0.6" textLength="72" lengthAdjust="spacing">SUBTOTAL</text>
+    <text x="109.5" y="38" font-size="14" letter-spacing="0.6" textLength="243" lengthAdjust="spacing" fill="#6B6B6B">...........................</text>
+    <text x="361.5" y="38" font-size="14" letter-spacing="0.6" textLength="90" lengthAdjust="spacing">4 PROJECTS</text>
+    <text x="28.5" y="60" font-size="14" letter-spacing="0.6" textLength="36" lengthAdjust="spacing">BUGS</text>
+    <text x="73.5" y="60" font-size="14" letter-spacing="0.6" textLength="360" lengthAdjust="spacing" fill="#6B6B6B">........................................</text>
+    <text x="442.5" y="60" font-size="14" letter-spacing="0.6" textLength="9" lengthAdjust="spacing">0</text>
+    <text x="28.5" y="82" font-size="14" letter-spacing="0.6" textLength="135" lengthAdjust="spacing">COFFEE CONSUMED</text>
+    <text x="172.5" y="82" font-size="14" letter-spacing="0.6" textLength="198" lengthAdjust="spacing" fill="#6B6B6B">......................</text>
+    <text x="379.5" y="82" font-size="14" letter-spacing="0.6" textLength="72" lengthAdjust="spacing">TOO MUCH</text>
+    <line x1="28.5" x2="451.5" y1="100" y2="100" stroke="#111111" stroke-width="1" shape-rendering="crispEdges"/>
+    <line x1="28.5" x2="451.5" y1="103" y2="103" stroke="#111111" stroke-width="1" shape-rendering="crispEdges"/>
+    <text x="28.5" y="134" font-size="20" letter-spacing="1.22" textLength="66.09" lengthAdjust="spacing" font-weight="700">TOTAL</text>
+    <text x="107.81" y="134" font-size="20" letter-spacing="1.22" textLength="105.75" lengthAdjust="spacing" fill="#6B6B6B">........</text>
+    <text x="226.78" y="134" font-size="20" letter-spacing="1.22" textLength="224.72" lengthAdjust="spacing" font-weight="700">1 SOLID DEVELOPER</text>
+    <g transform="translate(338 142) rotate(-8)" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.55;0.62;1" dur="1s"/>
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="2;2;0.93;1" keyTimes="0;0.55;0.8;1" dur="1s"/>
+        <rect x="-84" y="-21" width="168" height="42" rx="4" fill="none" stroke="#E5322D" stroke-width="3"/>
+        <rect x="-78" y="-15" width="156" height="30" rx="2" fill="none" stroke="#E5322D" stroke-width="1"/>
+        <text x="0" y="7.5" font-size="21" font-weight="700" letter-spacing="3" text-anchor="middle" fill="#E5322D">APPROVED</text>
+      </g>
+    </g>
+  </g>
+</svg>
