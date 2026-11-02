@@ -31,10 +31,10 @@ In `README.md`, each project row is `<a href="#">`. Replace `#`:
 
 | Row | Files | Link to fill |
 | --- | --- | --- |
-| Coffee Shop Website | `row-coffee.svg`, `row-coffee-m.svg` | first `href="#"` |
-| ProFit Gym Website | `row-profit.svg`, `row-profit-m.svg` | second `href="#"` |
-| Billz Store Website | `row-billz.svg`, `row-billz-m.svg` | third `href="#"` |
-| Telegram Mafia Mini App | `row-mafia.svg`, `row-mafia-m.svg` | fourth `href="#"` (bot or mini app link) |
+| Coffee Shop Website | `row-coffee.svg` | first `href="#"` |
+| ProFit Gym Website | `row-profit.svg` | second `href="#"` |
+| Billz Store Website | `row-billz.svg` | third `href="#"` |
+| Telegram Mafia Mini App | `row-mafia.svg` | fourth `href="#"` (bot or mini app link) |
 
 Telegram links already point to `https://t.me/KrieWoo`.
 
@@ -42,9 +42,9 @@ Telegram links already point to `https://t.me/KrieWoo`.
 
 Add an entry to `PROJECTS` in `tools/build.mjs`, rebuild, then copy one `<a>...</a><br>` row line in `README.md` and change the file names and link.
 
-## Why rows have a `-m` twin
+## Why the receipt column is wrapped in `<sub><div>`
 
-GitHub gives inline images a 24px line box. On narrow screens the scaled project rows get shorter than that and white gaps open between them. The `<picture>` tag serves the taller `row-*-m.svg` files below 830px wide, so the receipt stays joined. Do not delete them.
+GitHub gives every inline image a 24px line box. When the page is narrow the scaled images get shorter than that and white gaps open between the stacked segments. `<sub>` has `line-height: 0` on GitHub, and the `<div>` inside inherits it, so the segments touch. Keep that wrapper when you edit `README.md`.
 
 ## Preview
 

@@ -70,10 +70,8 @@ const TG = { label: 'TELEGRAM', handle: '@KRIEWOO' };
 /* ───────────── /CONFIG ───────────── */
 
 const FONT = "'Courier New', 'SF Mono', Consolas, monospace";
-// Line pitch for every block. Rows are separate <img> segments; GitHub gives inline images a 24px
-// line box, so a row image must stay >= 24px after scaling or white gaps appear. Keep this >= 30.
+// Line pitch for every block on the main receipt.
 const LINE = 30;
-const ROW_M = 80; // height of the mobile row variant
 const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const f = (n) => +n.toFixed(2);
 const write = (name, s) => fs.writeFileSync(path.join(OUT, name), s);
@@ -215,8 +213,7 @@ for (const p of PROJECTS) {
     <rect x="${X0}" y="24" width="${p.name.length * 9 - 1}" height="1" fill="${C.red}"/>
     ${G.T('->', { x: RIGHT - 2 * 9, y: 20, fill: C.red, bold: true })}`;
   write(p.file, svg(LINE, body));
-  // Taller twin served to narrow screens via <picture>: keeps the scaled image >= 24px so no gaps open up.
-  write(p.file.replace('.svg', '-m.svg'), svg(ROW_M, `<g transform="translate(0 ${(ROW_M - LINE) / 2})">${body}</g>`));
+})">${body}</g>`));
 }
 
 /* items: ingredients + services */
@@ -458,7 +455,8 @@ console.log('built into', OUT);
 <meta charset="utf-8">
 <title>Receipt preview</title>
 <style>
-  body { margin: 0; padding: 16px 0; font: 14px/1.5 sans-serif; }
+  body { margin: 0; padding: 16px 0; font: 16px/1.5 sans-serif; }
+  sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline; }
   #root { margin: 0 auto; }
   table { border-collapse: collapse; width: 100%; }
   td { padding: 6px 13px; border: 1px solid #d0d7de; }
