@@ -213,7 +213,6 @@ for (const p of PROJECTS) {
     <rect x="${X0}" y="24" width="${p.name.length * 9 - 1}" height="1" fill="${C.red}"/>
     ${G.T('->', { x: RIGHT - 2 * 9, y: 20, fill: C.red, bold: true })}`;
   write(p.file, svg(LINE, body));
-})">${body}</g>`));
 }
 
 /* items: ingredients + services */
